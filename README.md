@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pthndv/pyrofast">
-    <img src="https://github.com/phtndv/Pyrofast/pyrofast-logo.png" alt="Pyrofast" width="128">
+    <img src="https://github.com/phtndv/Pyrofast/assets/pyrofast-logo.png" alt="Pyrofast" width="128">
 
   </a>
   <br>

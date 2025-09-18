@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask Pyrofast related questions
+    url: https://stackoverflow.com/questions/tagged/pyrofast
+    about: This place is only for reporting issues about Pyrofast. You can ask questions on StackOverflow.
+  - name: Join the Telegram channel
+    url: https://t.me/pyrofast
+    about: Join the official channel and stay tuned for news, updates and announcements.

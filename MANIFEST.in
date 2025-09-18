@@ -1,0 +1,13 @@
+# Include files
+include README.md COPYING COPYING.lesser NOTICE requirements.txt
+recursive-include compiler *.py *.tl *.tsv *.txt
+recursive-include tests *.py
+
+# Exclude files
+exclude pyrofast/raw/all.py
+
+# Prune directories
+prune pyrofast/errors/exceptions
+prune pyrofast/raw/functions
+prune pyrofast/raw/types
+prune pyrofast/raw/base

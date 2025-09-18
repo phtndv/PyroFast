@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 import os
+from .client import Client
 
 class Bot(Client):
     def __init__(self, name, api_id=None, api_hash=None, bot_token=None, **kwargs):

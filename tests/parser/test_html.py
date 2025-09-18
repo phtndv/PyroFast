@@ -16,8 +16,8 @@
 #  You should have received a copy of the GNU Lesser General Public License
 #  along with Pyrogram.  If not, see <http://www.gnu.org/licenses/>.
 
-import pyrofast
-from pyrofast.parser.html import HTML
+import pyrogram
+from pyrogram.parser.html import HTML
 
 
 # expected: the expected unparsed HTML
